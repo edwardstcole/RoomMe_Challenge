@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "340738516739",
+    "project_id": "edwardstcole-roomme-challenge",
+    "storage_bucket": "edwardstcole-roomme-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340738516739:android:c2b6327ba69cbe18d16b36",
+        "android_client_info": {
+          "package_name": "com.example.edwardstcole_roomme_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340738516739-vqpfv1gu072erj3abapqsncquug9q4ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-BJ_c6iUz3JdLmUtXfPBWxkkrixP2nsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340738516739-vqpfv1gu072erj3abapqsncquug9q4ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340738516739-1e4f45j7d844q2oddc3277tahlarsl61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edwardstcoleRoommeChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
